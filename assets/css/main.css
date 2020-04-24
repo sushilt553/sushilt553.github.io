@@ -3510,3 +3510,26 @@ input, select, textarea {
 			}
 
 	}
+
+.font-icon {
+	font-size: 100px;
+}
+
+.font-image {
+	height: 100px;
+	width: 100px;
+}
+
+.edu {
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.edu-title {
+	font-size: 25px;
+	color: white;
+}
+
+.angellist, .linkedin {
+	font-size: 25px;
+}
