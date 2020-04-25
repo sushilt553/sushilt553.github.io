@@ -3262,9 +3262,12 @@ body.is-preload #header:after {
 }
 
 .angellist,
-.linkedin,
-.resume {
+.linkedin {
     font-size: 25px;
+}
+
+.resume {
+    font-size: 20px;
 }
 
 .reach-me {
@@ -3273,13 +3276,14 @@ body.is-preload #header:after {
 
 .reach {
     margin-right: 8px;
+    font-family: "Font Awesome 5 Free"
 }
 
 .edu-App,
 .edu-MS,
 .edu-BS {
-	font-size: 25px;
-	margin-right: 6px;
+    font-size: 25px;
+    margin-right: 6px;
 }
 
 .edu-App {
