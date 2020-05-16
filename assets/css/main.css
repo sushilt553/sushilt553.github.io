@@ -464,7 +464,8 @@ pre code {
 }
 
 .row>.col-4 {
-    width: 33.33333%;
+    /* width: 33.33333%; */
+    width: 50%;
 }
 
 .row>.off-4 {
